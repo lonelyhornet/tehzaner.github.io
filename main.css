@@ -2,6 +2,13 @@ body {
   margin: 0;
   background: #292b3a;
 }
-.container ul {
-  color: FFCC00;
+.container h1 {
+  color: #FFCC00;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: uppercase;
 }
