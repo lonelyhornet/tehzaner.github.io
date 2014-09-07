@@ -12,3 +12,14 @@ body {
   padding-right: 10px;
   text-transform: uppercase;
 }
+.container a {
+  color: #FFCC00;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: uppercase;
+}
+
