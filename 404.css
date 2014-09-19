@@ -1,4 +1,6 @@
 body {
   margin: 0;
-  background: #292b3a;
+}
+..col-md-offset-3 h1{
+  color: #fffff;
 }
