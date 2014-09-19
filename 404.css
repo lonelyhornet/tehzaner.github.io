@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background: #292b3a;
+}
+..col-md-6 .col-md-offset-3 {
+  color: #FFCC00;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Oxygen', sans-serif;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: uppercase;
+}
+..col-md-6 .col-md-offset-3 a {
+  color: #FFCC00;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
