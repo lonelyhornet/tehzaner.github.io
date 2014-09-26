@@ -1,7 +1,7 @@
 body {
   margin: 0;
 }
-.col-md-3 {
+col {
     width: 25%
     background-color: #000;
     font-family: 'Oxygen', sans-serif;
