@@ -2,9 +2,8 @@ body {
   margin: 0;
   background: #292b3a;
 }
-.backers h1 {
+.backers h3 {
   color: #FFCC00;
-  font-size: 50px;
   font-weight: bold;
   font-family: 'Oxygen', sans-serif;
   padding-top: 14px;
