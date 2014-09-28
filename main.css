@@ -22,6 +22,14 @@ body {
   padding-left: 10px;
   padding-right: 10px;
 }
+.backers h2 {
+  color: #FFCC00;
+  font-family: 'Oxygen', sans-serif;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 .twitter {
   float: right;
 }
